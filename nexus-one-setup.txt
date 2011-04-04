@@ -1,0 +1,7 @@
+Remove widgets from homescreen pages
+Change the wallpaper to a static image
+In Settings:
+	Turn off sync and background data
+	Turn off Display autorotation
+	Turn off auto brightness and set to maximum
+

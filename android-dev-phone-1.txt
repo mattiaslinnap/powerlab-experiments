@@ -1,0 +1,8 @@
+#Fri Apr 30 14:51:21 BST 2010
+syncPulseWidthMillis=800.0
+syncLowPower=0.635
+syncDontCareMillis=400.0
+syncHighPower=1.194
+preSyncCode=0x541697E1541697E1
+postSyncCode=0x1CA859FD1CA859FD
+syncTechnique=setBacklight

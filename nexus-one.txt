@@ -1,0 +1,8 @@
+#Fri Apr 30 14:51:21 BST 2010
+syncPulseWidthMillis=1000.0
+syncLowPower=1.26
+syncDontCareMillis=0
+syncHighPower=1.73
+preSyncCode=0x541697E1541697E1
+postSyncCode=0x1CA859FD1CA859FD
+syncTechnique=setBlit
