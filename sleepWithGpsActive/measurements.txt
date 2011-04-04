@@ -1,0 +1,2 @@
+IDLE	timing:DoSleep:1/delay:ms:200	timing:DoSleep:2/delay:ms:-200	writeRaw	
+GPS	timing:SleepWithGpsActive:1	timing:SleepWithGpsActive:1	writeRaw,montecarlo(IDLE:1000)	

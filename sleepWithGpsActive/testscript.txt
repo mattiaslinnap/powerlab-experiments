@@ -1,0 +1,7 @@
+Experiment name:sleepWithGpsActive
+Desired iterations:1
+ControlInterfaceCell:false
+NONE:1:DoSleep:15000
+NONE:1:DoSleep:1000
+NONE:1:SleepWithGpsActive:10000
+NONE:1:DoSleep:1000

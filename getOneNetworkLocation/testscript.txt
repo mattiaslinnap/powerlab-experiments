@@ -1,0 +1,11 @@
+Experiment name:getOneNetworkLocation
+Desired iterations:1
+ControlInterfaceCell:false
+NONE:1:ToggleWifi:true
+NONE:1:WaitWifiConnect
+NONE:1:DoSleep:15000
+NONE:1:DoSleep:1000
+NONE:1:GpsStartListening
+NONE:1:GpsWaitForLocationChanged:1
+NONE:1:GpsStopListening
+NONE:1:DoSleep:1000
